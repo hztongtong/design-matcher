@@ -1,0 +1,62 @@
+#bg-image-controls {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 300px;
+  background-color: #f5f5f5;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  z-index: 9999;
+  font-family: Arial, sans-serif;
+}
+
+#bg-image-controls.hidden {
+  display: none;
+}
+
+.control-group {
+  margin-bottom: 15px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.button-group {
+  display: flex;
+  gap: 5px;
+  margin-top: 5px;
+}
+
+.control-group input[type="number"] {
+  width: 70px;
+}
+
+.control-group label {
+  display: inline-block;
+  width: 100px;
+  font-size: 14px;
+}
+
+.control-group button {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.control-group button:hover {
+  background-color: #f0f0f0;
+}
+
+#bg-image-drag-handle {
+  padding: 5px;
+  background-color: #e0e0e0;
+  border-radius: 4px 4px 0 0;
+  cursor: move;
+  margin: -15px -15px 10px -15px;
+  text-align: center;
+  font-size: 12px;
+}

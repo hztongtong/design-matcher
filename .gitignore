@@ -1,0 +1,16 @@
+# Chrome Extension Development
+
+# Packaged extensions
+*.zip
+
+# IDE and Editor files
+.vscode/
+
+# OS generated files
+Thumbs.db
+desktop.ini
+
+# Backup files
+backup/
+*.bak
+*.backup

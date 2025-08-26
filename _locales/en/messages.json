@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Design Matcher"
+  },
+  "appDesc": {
+    "message": "A simple design comparison tool. Overlay your design mockups on any webpage to check implementation accuracy with ease."
+  }
+}
