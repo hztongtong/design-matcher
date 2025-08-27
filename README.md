@@ -1,8 +1,8 @@
 # Design Matcher - デザイン照合ツール
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-v1.2-blue?logo=google-chrome)](https://chrome.google.com/webstore)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](license)
-[![Version](https://img.shields.io/badge/Version-1.2-orange)](https://github.com/username/design-matcher/releases)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Version](https://img.shields.io/badge/Version-1.2-orange)
 
 ## 概要
 
@@ -122,17 +122,17 @@ cd design-matcher
 
 ### 報告
 
-- **バグ報告**: [Issues](https://github.com/username/design-matcher/issues) でバグを報告
-- **機能要望**: 新機能のアイデアがあれば Issue で提案
-- **質問**: 使用方法に関する質問も Issues で受け付けています
+- **バグ報告**: [Issues](https://github.com/hztongtong/design-matcher/issues) でバグを報告
+- **機能要望**: 新機能のアイデアがあれば [Issues](https://github.com/hztongtong/design-matcher/issues) で提案
+- **質問**: 使用方法に関する質問も [Issues](https://github.com/hztongtong/design-matcher/issues) で受け付けています
 
 ## サポート
 
 ### ヘルプ
 
-- [使用方法ガイド](https://github.com/username/design-matcher/wiki)
-- [既知の問題](https://github.com/username/design-matcher/issues?q=label%3Abug)
-- [Q&A](https://github.com/username/design-matcher/discussions)
+- ~~[使用方法ガイド](#)~~
+- ~~[既知の問題](#)~~
+- ~~[Q&A](#)~~
 
 ### 連絡先
 
