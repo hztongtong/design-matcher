@@ -38,14 +38,14 @@
 1. このリポジトリをクローンまたはダウンロード
 
 ```bash
-git clone https://github.com/username/design-matcher.git
+git clone https://github.com/hztongtong/design-matcher
 cd design-matcher
 ```
 
 2. Chrome で `chrome://extensions/` にアクセス
 3. 「デベロッパーモード」を有効にする
 4. 「パッケージ化されていない拡張機能を読み込む」をクリック
-5. `src` フォルダを選択
+5. `manifest.json` のあるフォルダを選択
 
 ## 使用方法
 
